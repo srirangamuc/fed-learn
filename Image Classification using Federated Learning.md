@@ -57,4 +57,6 @@ unique data distributions , resulting in poorly trained models.
 ### Dataset Preparation for Office 31 Dataset
 #### Overview:
 * The Office 31 dataset consists of images representing common office equipment such as keyboards, printers, monitors, laptops, and more. This dataset was used as a model to create our own collection similar images.
+
+* The practical experiment will be updated soon.
   
